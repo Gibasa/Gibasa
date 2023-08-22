@@ -1,70 +1,39 @@
-<h1 align="center">Hello Wolrd!</h1>
+# Gilberto Sá - Transitioning to the World of Software Development
 
-###
+Greetings! I am **Gilberto Sá**, a passionate professional embarking on a journey to the *realm of Software Development*. With a background in various programming languages, including Python, JavaScript, HTML, CSS, Vue.js, React, Node, Sass, and MySQL, I have also contributed to team projects involving technologies like HTML, CSS, Sass, Vue.js, Node, JavaScript, TypeScript, and MySQL. I continuously update my skills and possess intermediate knowledge in Scrum.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Gibasa/count.svg?"  />
-</div>
+## My Journey in Data Science
 
-###
+Currently, I am honing my skills in *Data Science* through the **bootcamp** offered by *Digital Innovation One (DIO)*, in partnership with Santander. This comprehensive program has provided me with an enriching educational environment, allowing me to delve into essential techniques and practices of Data Science. I am enthusiastic about applying this knowledge to future projects.
 
-<h3 align="left">- About Me -</h3>
+## Technical Proficiencies
 
-###
+Here are some of the technical skills I have acquired along my journey:
 
-<p align="left">I'm Gilberto from Brazil<br><br>- 🔭 I’m open to work!<br>- 📚 I am currently studying front-end development with a focus on Vue.js and its associated tools.<br>- ⚡ In my free time, I enjoy playing games and watching series.</p>
+### Programming Languages
 
-###
+![Python Badge](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=python) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-grey?style=flat-square&logo=javascript)
 
-<h3 align="left">🛠 Language and tools</h3>
+### Web Development
 
-###
+![HTML/CSS Badge](https://img.shields.io/badge/-HTML%2FCSS-grey?style=flat-square&logo=html5&logoColor=orange) ![Vue.js Badge](https://img.shields.io/badge/-Vue.js-grey?style=flat-square&logo=vue.js&logoColor=green) ![React Badge](https://img.shields.io/badge/-React-grey?style=flat-square&logo=react&logoColor=blue) ![Node.js Badge](https://img.shields.io/badge/-Node.js-grey?style=flat-square&logo=node.js&logoColor=wgreen) ![Sass Badge](https://img.shields.io/badge/-Sass-grey?style=flat-square&logo=sass&logoColor=pink)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+### Database
 
-###
+![MySQL Badge](https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql&logoColor=blue)
 
-<h3 align="left">🔥   My Stats :</h3>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gibasa&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-###
+## Emphasis on Software Development
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gibasa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+My passion for programming and diverse experience has propelled me to pursue a career in *software development*. I am eager to tackle new challenges, collaborate with other talented professionals, and contribute positively to the company's success.
 
-###
+## Future Goals
+
+As someone who values continuous learning, my objective is to remain up-to-date with ever-evolving technological trends. I aspire to apply my knowledge to innovative projects and continue growing as a software developer.
+
+I am thrilled about the opportunities that the realm of software development has to offer, and I am committed to fully dedicating myself to this exciting journey.
+
+---
+
+*Contact: [gibasa@gmail.com](mailto:seuemail@example.com)*

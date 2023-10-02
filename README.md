@@ -2,10 +2,6 @@
 
 Greetings! I am **Gilberto Sá**, a passionate professional embarking on a journey to the *realm of Software Development*. With a background in various programming languages, including Python, JavaScript, HTML, CSS, Vue.js, React, Node, Sass, and MySQL, I have also contributed to team projects involving technologies like HTML, CSS, Sass, Vue.js, Node, JavaScript, TypeScript, and MySQL. I continuously update my skills and possess intermediate knowledge in Scrum.
 
-## My Journey in Data Science
-
-Currently, I am honing my skills in *Data Science* through the **bootcamp** offered by *Digital Innovation One (DIO)*, in partnership with Santander. This comprehensive program has provided me with an enriching educational environment, allowing me to delve into essential techniques and practices of Data Science. I am enthusiastic about applying this knowledge to future projects.
-
 ## Technical Proficiencies
 
 Here are some of the technical skills I have acquired along my journey:

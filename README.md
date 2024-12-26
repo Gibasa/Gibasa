@@ -6,8 +6,6 @@ I work closely with designers to bring creative visions to life, ensuring seamle
 
 Let's build something amazing together!
 
-Let's build something great together!
-
 ## Technical Proficiencies
 
 Here are some of the technical skills I have acquired along my journey:

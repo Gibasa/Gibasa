@@ -1,6 +1,12 @@
-# Gilberto Sá - Transitioning to the World of Software Development
+# Gilberto Sá - Front-End Developer
 
-Greetings! I am **Gilberto Sá**, a passionate professional embarking on a journey to the *realm of Software Development*. With a background in various programming languages, including Python, JavaScript, HTML, CSS, Vue.js, React, Node, Sass, and MySQL, I have also contributed to team projects involving technologies like HTML, CSS, Sass, Vue.js, Node, JavaScript, TypeScript, and MySQL. I continuously update my skills and possess intermediate knowledge in Scrum.
+Greetings! I am Gilberto Sá, a dedicated Front-End Developer with hands-on experience creating modern, responsive, and user-focused websites. My expertise includes HTML, CSS, JavaScript, React, Styled Components, Material UI, and Sass.
+
+I work closely with designers to bring creative visions to life, ensuring seamless integration of design and functionality. Passionate about delivering high-quality solutions, I continually enhance my skills to stay at the forefront of web development trends.
+
+Let's build something amazing together!
+
+Let's build something great together!
 
 ## Technical Proficiencies
 

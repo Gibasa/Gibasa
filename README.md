@@ -22,8 +22,6 @@ Here are some of the technical skills I have acquired along my journey:
 
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql&logoColor=blue)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gibasa&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ## Emphasis on Software Development
 
 My passion for programming and diverse experience has propelled me to pursue a career in *software development*. I am eager to tackle new challenges, collaborate with other talented professionals, and contribute positively to the company's success.

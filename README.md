@@ -16,7 +16,7 @@ Here are some of the technical skills I have acquired along my journey:
 
 ### Web Development
 
-![HTML/CSS Badge](https://img.shields.io/badge/-HTML%2FCSS-grey?style=flat-square&logo=html5&logoColor=orange) ![React Badge](https://img.shields.io/badge/-React-grey?style=flat-square&logo=react&logoColor=blue) ![Node.js Badge](https://img.shields.io/badge/-Node.js-grey?style=flat-square&logo=node.js&logoColor=wgreen) ![Vue.js Badge](https://img.shields.io/badge/-Vue.js-grey?style=flat-square&logo=vue.js&logoColor=green) ![Sass Badge](https://img.shields.io/badge/-Sass-grey?style=flat-square&logo=sass&logoColor=pink)
+![HTML/CSS Badge](https://img.shields.io/badge/-HTML%2FCSS-grey?style=flat-square&logo=html5&logoColor=orange) ![React Badge](https://img.shields.io/badge/-React-grey?style=flat-square&logo=react&logoColor=blue) ![Next.js Badge](https://img.shields.io/badge/-Next.js-grey?style=flat-square&logo=next.js&logoColor=white) ![Node.js Badge](https://img.shields.io/badge/-Node.js-grey?style=flat-square&logo=node.js&logoColor=wgreen) ![Vue.js Badge](https://img.shields.io/badge/-Vue.js-grey?style=flat-square&logo=vue.js&logoColor=green) ![Sass Badge](https://img.shields.io/badge/-Sass-grey?style=flat-square&logo=sass&logoColor=pink) ![Styled%20Components Badge](https://img.shields.io/badge/-Styled%20Components-grey?style=flat-square&logo=styled-components&logoColor=hotpink) ![Tailwind%20CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-grey?style=flat-square&logo=tailwind-css&logoColor=38B2AC) 
 
 ### Database
 
